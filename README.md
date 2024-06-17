@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I've just returned to Github after a long absence. Let's jump in!
 
-Pseudo-resume:
+### Pseudo-resume:
 
 6 years with two different companies supporting custom software integrating warehouse management systems with robotics
 
@@ -24,7 +24,7 @@ Pseudo-resume:
 1 year freelance web development
 
 
-Prior to entering IT:
+#### Prior to entering IT:
 
 3 years in hotels and tourism
 
@@ -35,7 +35,7 @@ Prior to entering IT:
 lots of years of odd service industry jobs
 
 
-Education and certifications:
+### Education and certifications:
 
 ITIL 4 Foundation
 

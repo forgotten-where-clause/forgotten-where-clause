@@ -60,7 +60,7 @@ B.A. in French
 **In my spare time:** I volunteer at the local farmers' market and DIY things around the house.
 
 
-###Fun facts 
+### Fun facts 
 I'm a published author, conversational French speaker, and have personally witnessed an airplane door opening in flight.
 
 **Reach me at: owenxgraham@gmail.com**
